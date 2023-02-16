@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Cualquier cosa
+
+sdfadsfdsfdsfdsa
+=======
+Cualquier cosa puede pasar
+>>>>>>> 326793cb6003cdb442a7a5a84301b246770e972a

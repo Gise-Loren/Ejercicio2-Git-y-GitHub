@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Nada
+
+
+adsfdsfvdsavxcddfrehyjuhjnhnbvbc
+=======
+Nada de nada
+>>>>>>> 326793cb6003cdb442a7a5a84301b246770e972a
