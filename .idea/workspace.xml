@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc87ca5-d27f-4cd6-9356-e41371b2690b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lorem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$ase 2 en vivo.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ejerciciogit1" />
+  </component>
+  <component name="ProjectId" id="2LpqlA2ig2aOcVaArFQL22EE9iG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/glorenzatt/Desktop/EjerciciosBootcamp/Ejercicios-clase-vivo/Ejercicio-clase1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc87ca5-d27f-4cd6-9356-e41371b2690b" name="Changes" comment="" />
+      <created>1676578519700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676578519700</updated>
+    </task>
+    <servers />
+  </component>
+</project>
