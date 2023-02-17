@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc87ca5-d27f-4cd6-9356-e41371b2690b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lorem.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$ase 2 en vivo.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ejerciciogit1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2LpqlA2ig2aOcVaArFQL22EE9iG" />
   <component name="ProjectViewState">
@@ -22,7 +22,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/glorenzatt/Desktop/EjerciciosBootcamp/Ejercicios-clase-vivo/Ejercicio-clase1"
+    "last_opened_file_path": "C:/Users/glorenzatt/Desktop/EjerciciosBootcamp/Clase1-vivo-ejemplos/Ejercicio-Git"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
